@@ -1,7 +1,7 @@
 # developer-salary-prediction
 Developer salaries vary widely across roles, regions, and skill sets. In this project, We analyze the 2023 Stack Overflow Survey to uncover the key factors influencing compensation, combining exploratory data analysis, feature engineering, and regression modeling to identify meaningful patterns in real-world survey data.
 
-##📊 Analysis Summary
+📊 ##Analysis Summary
 
 - The model explains 56.5% of salary variance (R² = 0.565), performing well for typical developer salaries.
 
